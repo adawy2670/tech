@@ -1,1 +1,1 @@
--a ethash -o stratum+tcp://ethash.asia.mine.zergpool.com:9999 -u DMgtzoaAE47UD4DzZQizzBLzDe1Jr67hw8 --timeout 120 -p c=DOGE,mc=AKA/CLO/EGEM/ETHF/ETHW/EXP/OCTA/TSF,ID=tech
+-a rx/0 -o stratum+tcp://randomx.asia.mine.zergpool.com:4453 -u DMgtzoaAE47UD4DzZQizzBLzDe1Jr67hw8 --keepalive --timeout 120 --donate-level 1 -p c=DOGE,mc=XMR,ID=tech
